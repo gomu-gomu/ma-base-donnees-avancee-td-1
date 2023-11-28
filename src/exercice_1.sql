@@ -1,3 +1,5 @@
+-- Exercice 1 - Memoire PGA
+
 -- 1 - Quelle est la vue qui permet d'accéder aux paramètres de la mémoire SGA et PGA.
 -- V$SGA et V$PGA_TARGET_ADVICE.
 SELECT * FROM V$SGA;
